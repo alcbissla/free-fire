@@ -1,0 +1,14 @@
+{
+  "name": "freefire-topup-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to top-up Free Fire diamonds via shop.garena.my automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "puppeteer": "^21.3.8"
+  }
+}
